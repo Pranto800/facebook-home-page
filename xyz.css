@@ -1,0 +1,68 @@
+.div{
+    width: 400px;
+    height: 300px;
+    border: 2px solid rgba(230, 149, 18, 0.863);
+    position: relative;
+}
+.log1{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+
+    position: absolute;
+    left: ;
+    right: auto;
+    bottom: 0;
+    
+
+  
+    
+    
+}
+.div2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 17, 163);
+   
+    left: 350px;
+}
+.div3{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(24, 228, 99);
+    
+}
+.front{
+    width: 300px;
+    height: 30px;
+    background-color: #474747;
+    margin-top: 50px;
+    position: relative;
+    left: 50px;
+    border-radius: 15px;
+}
+.span1{
+    position: absolute;
+    
+   
+}
+.span2{
+    position: absolute;
+    left: auto;
+    right: 0;
+   
+}
+.front a{
+     position: absolute;
+     top: 2px;
+}
+.front input{
+    position: absolute;
+    left: 21px;
+    width: 250px;
+    height: 24px;
+    background-color: #474747;
+    border: none;
+    outline: none;
+    
+}

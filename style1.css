@@ -1,0 +1,144 @@
+.block1{
+    color: blue;
+    background-color: aqua; 
+}
+body{
+    background-color: aliceblue;
+    background-image: ;
+    background-repeat: ;
+    background-position: ;
+}
+.block2{
+   border-style: solid;
+   border-width: 5px;
+   border-color: blueviolet;
+   border-radius: 30px;
+ 
+}
+.block3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(239, 21, 214);
+    border-style: double;
+    border-color: rgb(138, 223, 17);
+    margin-top:59px ;
+    margin-left: ;
+    margin-right: ;
+    margin-bottom: 87px;  
+    padding-top: 10px;
+    overflow: auto;
+}
+.block4{
+    border-style: solid;
+    outline-style: dotted;
+    outline-color: burlywood;
+    outline-width: 5px;
+    outline-offset: 6px;
+}
+.block5{
+    color: fuchsia;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 8px;
+    text-indent: 17px;
+    line-height: 40px;
+}
+.block6{
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight:12px;
+   font-style: italic;
+   font-size: larger;
+}
+#block7{
+    font-size: 70px;
+    color: rgb(158, 237, 9);
+   
+}
+#block8{
+    font-size: 70px;
+    color: rgb(70, 1, 190);
+   }
+a{
+    color:green;
+    font-size: 30px;
+    text-decoration: none;  
+     padding-left: 20px;
+   background-color: rgb(8, 195, 89);
+    border: 6px solid black;
+    
+}
+a:hover{
+    color: rgb(31, 192, 220);
+    background-color: rgb(51, 86, 7);
+}
+a:active{
+    color:rgb(237, 26, 26); 
+}
+a:visited{
+   background-color: rgb(233, 207, 9);
+  
+}
+.block9{
+    list-style: decimal;
+    list-style-position: outside;}
+.block10,th,td{
+    border: solid 3px black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 30%;
+    }
+    th{
+        color: rgb(218, 54, 17);
+    }
+    td{
+        color: rgb(235, 6, 29);
+    }
+    .block11,th,td{
+        border: solid 3px black;
+        border-collapse: collapse;
+        text-align: left;
+        width: 30%;
+        }
+        .block12{
+            width: 400px;
+            height: 200px;
+            background-color: green;
+          top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            position: relative;
+        }
+        .block13{
+            width: 200px;
+            height: 100px;
+            background-color: red;
+            top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            position: absolute;
+            border-radius: 50%;
+        }
+        .block14{
+        color: black;
+        background-color: blue;
+        border: 1px dotted;
+        width: 90px;
+        top: 0px;
+        position: sticky;
+}
+
+      .block15{
+        border: black double;
+        width: 20%;
+        background-color: cadetblue;
+        color: red;
+        position: fixed;
+        right: 0px;
+        bottom: 0%;
+       
+      }
+     

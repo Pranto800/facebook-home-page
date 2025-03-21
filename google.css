@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header ul{
+    display: flex;
+    gap: 25px;
+    justify-content: end;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+header ul li a{
+   text-decoration: none;
+   color: black;
+  font-size: 15px;
+  
+ 
+
+   
+}
+header ul li a:hover{
+    text-decoration: underline;
+}
+header li{
+    list-style-type: none;
+}
+header button{
+    font-size: 17px;
+    padding: 3px 10px;
+    border: 1px solid #4564ef;
+    background-color: #4564ef;
+    color: white;
+    cursor: pointer;
+    
+}
+header button:hover{
+    box-shadow: rgba(0, 0, 0, 0.5);
+}
+ .google{
+    text-align: center;
+ }
+.G{
+    color: rgb(66, 133, 244);
+}
+.o{
+    color: rgb(234, 67, 53);
+}
+.o1{
+    color: rgb(251, 144, 5);
+}
+.g1{
+    color: rgb(66, 133, 244);
+}
+.l{
+    color: rgb(52, 168, 53);
+   
+}
+.e{
+    color: rgb(234, 67, 53);
+    transform: skewX(20deg);
+    
+}
+.google{
+    font-size: 90px;
+    display: flex;
+    gap: -50px;
+    justify-content: center;
+    margin-top: 60px;
+    font-family: Arial, sans-serif;
+    
+}
+.log{
+    width: 550px;
+    height: 40px;
+    background-color:#d2d2d2;
+   border-radius: 50px;
+   position: relative;
+   margin: auto ;
+   margin-top: 40px;
+   text-align: center;
+}
+
+
+.log1{
+ position: relative;
+  right: -3px;
+  top: 0px;
+  border:0px;
+  width: 495px;
+  height: 38px;
+  outline: none;
+  background-color: #d2d2d2;;
+  font-size: 15px;
+}  
+ 
+.log2{
+    position: absolute;
+    color: #474747;
+    top: 11px;
+    left: 10px;
+}
+.log3{
+    position: absolute;
+    color: #474747;
+    top: 11px;
+    right:10px;
+}
+.log button{
+    position: relative;
+    margin-top: 30px;
+    padding: 6px;
+}
+.log4{
+    left: 15px;
+}
+.log p{
+    color: #474747;
+}
+.log a{
+    text-decoration: none;
+
+}
+.log a:hover{
+    text-decoration: underline;
+}
+
+.div2{
+    margin-top: 200px;
+    width: 100%;
+    height: 40px;
+    background-color: #474747;
+    color: white;
+    position: relative;
+    top: 15px;
+    }
+    .div2 h4{
+        margin-left: 20px;
+        padding: 10px;
+    }
+.div1{
+   
+    width: 100%;
+    height: 50px;
+    background-color: #474747;
+    
+   
+}
+
+
+.text{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    padding: 6px;
+    margin-left: 22px;
+    
+}
+.text li{
+    position: relative;
+    top: 10px;
+}
+.text li a{
+    text-decoration: none;
+    color: white;
+    t
+}
+.text li a:hover{
+    text-decoration: underline;
+}
+.text1{
+    display: flex;
+    gap: 30px;
+   justify-content: end;
+   margin-top: -30px;
+   list-style-type: none;
+   margin-right: 20px;
+  
+
+   
+}
+.text1 li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.text1 li a:hover{
+    text-decoration: underline;
+}
+ 
+  
+
+
+
+  
+
+

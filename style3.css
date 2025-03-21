@@ -1,0 +1,107 @@
+h1:nth-child(2){
+    color: red;
+   
+   } 
+   .box1::first-letter{
+    color: green;
+    font-size: 40px;
+
+   }
+   .box1::second-letter{
+    color: green;
+    font-size: 40px;
+
+   }
+   .box1::first-line{
+    color: rgb(216, 65, 14);
+    font-size: 40px;
+
+
+   }
+   .box1::after{
+    content: normal;
+   
+
+   }
+ #kohon{
+    width: 100px;}
+    img:hover{
+        opacity: 0.5;
+    }
+    .bg{
+        width: 300px;
+        height: 200px;
+        background:url(img1.jpg) no-repeat center;
+      overflow: hidden;
+    }
+    .bg1{
+        font-size:23px ;
+        background-color: blue;
+        text-align: center;
+        margin-top: 100px;
+     
+    }
+    #bg3{
+      width: 200px;
+      height: 100px;
+      background: linear-gradient(green,blue);
+      
+     
+    }
+    #bg4{
+      width: 200px;
+      height: 100px;
+      background: radial-gradient(rgb(202, 9,    157),rgb(4, 21, 133)); 
+      }
+      .bg5{
+        text-align: center;
+        font-size: 40px;
+        text-shadow: 5px 5px 5px;
+      }
+      .bg6{
+        width: 400px;
+        height:280px;
+        text-align: center;
+        margin: auto;
+        border: 3px solid black;
+        box-shadow: 9px 9px 9px  rgb(0,0,0,0.5) ,
+
+
+        -9px -9px 9px  rgb(0,0,0,0.5) 
+        ;
+       
+        
+        
+      }
+      .bg6 img{
+        width: 100%;
+      }
+      .bg6 h2{
+        margin: 0px;
+      }
+      .social{
+        
+      }
+      .lexbox{
+
+        background-color: aqua;
+        font-size: 29px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 200px;
+        align-items: center;
+        
+        
+      }
+      .lexbox > div{
+        background-color: blue;
+        margin: 5px;
+        padding: 5px;
+        width: 100px;
+        
+      }
+      
+
+   
